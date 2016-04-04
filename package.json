@@ -1,0 +1,25 @@
+{
+  "name": "particle-strider-test",
+  "version": "1.0.0",
+  "description": "Test/dummy repo for testing a Strider CD plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emcniece/particle-strider-test.git"
+  },
+  "author": "Eric McNiece",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emcniece/particle-strider-test/issues"
+  },
+  "homepage": "https://github.com/emcniece/particle-strider-test#readme",
+  "dependencies": {
+    "async": "^1.5.2",
+    "express": "^4.13.4",
+    "moment": "^2.12.0",
+    "underscore": "^1.8.3"
+  }
+}
